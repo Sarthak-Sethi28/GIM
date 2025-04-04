@@ -1,4 +1,4 @@
-GIM
+
 🛡️ GIM Band – Guard In Motion
 A wearable safety device for women, powered by embedded tech, real-time communication, and cloud connectivity.
 
